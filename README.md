@@ -20,6 +20,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manas146&show_icons=true&locale=en" alt="manas146" /></p>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>If only wed stop trying to be happy wed have a pretty good time.</i><br><i>– Edith Wharton.</i><br></p>
+<p align="center"><br><i>Always bear in mind that your own resolution to succeed is more important than any one thing.</i><br><i>– Abraham Lincoln.</i><br></p>
 <!-- QUOTE:END -->
 
