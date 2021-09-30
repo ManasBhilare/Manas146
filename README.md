@@ -19,3 +19,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manas146&show_icons=true&locale=en" alt="manas146" /></p>
 
+<!-- QUOTE:START -->
+<!-- QUOTE:END -->
+
