@@ -20,6 +20,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manas146&show_icons=true&locale=en" alt="manas146" /></p>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>We must become the change we want to see.</i><br><i>– Mahatma Gandhi.</i><br></p>
+<p align="center"><br><i>Yesterday is history. Tomorrow is a mystery. And today? Today is a gift. That is why we call it the present.</i><br><i>– Babatunde Olatunji.</i><br></p>
 <!-- QUOTE:END -->
 
