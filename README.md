@@ -20,6 +20,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manas146&show_icons=true&locale=en" alt="manas146" /></p>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Always bear in mind that your own resolution to succeed is more important than any one thing.</i><br><i>– Abraham Lincoln.</i><br></p>
+<p align="center"><br><i>The weak can never forgive. Forgiveness is the attribute of the strong.</i><br><i>– Mahatma Gandhi.</i><br></p>
 <!-- QUOTE:END -->
 
