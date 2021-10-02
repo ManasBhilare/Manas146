@@ -20,6 +20,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manas146&show_icons=true&locale=en" alt="manas146" /></p>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Quality is not an act; it is a habit.</i><br><i>– Aristotle.</i><br></p>
+<p align="center"><br><i>You, yourself, as much as anybody in the entire universe, deserve your love and affection.</i><br><i>– Buddha.</i><br></p>
 <!-- QUOTE:END -->
 
