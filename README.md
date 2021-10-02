@@ -20,6 +20,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manas146&show_icons=true&locale=en" alt="manas146" /></p>
 
 <!-- QUOTE:START -->
-<a href="https://github.com/jhamadhav/quote-workflow" style="text-decoration:none;color:inherit;"><p align="center"><br><i>All achievements, all earned riches, have their beginning in an idea.</i><br><i>– Napoleon Hill.</i><br></p></a>
+<p align="center"><br><i>Quality is not an act; it is a habit.</i><br><i>– Aristotle.</i><br></p>
 <!-- QUOTE:END -->
 
