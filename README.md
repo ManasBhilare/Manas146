@@ -20,6 +20,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manas146&show_icons=true&locale=en" alt="manas146" /></p>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Know, first, who you are, and then adorn yourself accordingly.</i><br><i>– Epictetus.</i><br></p>
+<p align="center"><br><i>Flow with whatever is happening and let your mind be free. Stay centered by accepting whatever you are doing. This is the ultimate.</i><br><i>– Zhuang Zhou.</i><br></p>
 <!-- QUOTE:END -->
 
