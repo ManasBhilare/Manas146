@@ -20,6 +20,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manas146&show_icons=true&locale=en" alt="manas146" /></p>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>If you have one true friend, you have more than your share.</i><br><i>– Thomas Fuller.</i><br></p>
+<p align="center"><br><i>To lead people walk behind them.</i><br><i>– Laozi.</i><br></p>
 <!-- QUOTE:END -->
 
