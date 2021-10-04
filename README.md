@@ -20,6 +20,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manas146&show_icons=true&locale=en" alt="manas146" /></p>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>There are basically two types of people. People who accomplish things, and people who claim to have accomplished things. The first group is less crowded.</i><br><i>– Mark Twain.</i><br></p>
+<p align="center"><br><i>If you don't know where you are going, you will probably end up somewhere else.</i><br><i>– Laurence J. Peter.</i><br></p>
 <!-- QUOTE:END -->
 
