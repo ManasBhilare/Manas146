@@ -23,6 +23,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manas146&show_icons=true&locale=en" alt="manas146" /></p>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>If you accept the expectations of others, especially negative ones, then you never will change the outcome.</i><br><i>– Michael Jordan.</i><br></p>
+<p align="center"><br><i>Patience and perseverance have a magical effect before which difficulties disappear and obstacles vanish.</i><br><i>– John Adams.</i><br></p>
 <!-- QUOTE:END -->
 
