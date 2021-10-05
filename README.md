@@ -26,6 +26,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manas146&show_icons=true&locale=en" alt="manas146" /></p>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Never apologize for showing feeling. When you do so, you apologize for truth.</i><br><i>– Benjamin Disraeli.</i><br></p>
+<p align="center"><br><i>You can only learn so much from books. You can only learn so much from education. Ultimately, it is the wisdom of God that will carry you through in the toughest situations of life.</i><br><i>– Ravi Zacharias.</i><br></p>
 <!-- QUOTE:END -->
 
