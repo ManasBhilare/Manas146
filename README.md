@@ -23,6 +23,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manas146&show_icons=true&locale=en" alt="manas146" /></p>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Beware of false knowledge; it is more dangerous than ignorance.</i><br><i>– Bernard Shaw.</i><br></p>
+<p align="center"><br><i>The purpose of learning is growth, and our minds, unlike our bodies, can continue growing as we continue to live.</i><br><i>– Mortimer J. Adler.</i><br></p>
 <!-- QUOTE:END -->
 
