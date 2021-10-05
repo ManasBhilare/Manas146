@@ -23,6 +23,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manas146&show_icons=true&locale=en" alt="manas146" /></p>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Good, better, best. Never let it rest. ‘Til your good is better and your better is best.</i><br><i>– Jerome.</i><br></p>
+<p align="center"><br><i>Beware of false knowledge; it is more dangerous than ignorance.</i><br><i>– Bernard Shaw.</i><br></p>
 <!-- QUOTE:END -->
 
