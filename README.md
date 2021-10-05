@@ -3,6 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
+## 📢 I'm a Student, Developer, and Open-Source enthusiast!!
+
+
 - 🌱 I’m currently learning **•Machine Learning •Artificial Intelligence •Full Stack Web Development •Android Development •Competitive Programming**
 
 - 📫 How to reach me **bhilaremanas@gmail.com**
