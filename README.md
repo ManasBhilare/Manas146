@@ -20,6 +20,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manas146&show_icons=true&locale=en" alt="manas146" /></p>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>This is the whole point of technology. It creates an appetite for immortality on the one hand. It threatens universal extinction on the other. Technology is lust removed from nature.</i><br><i>– Don DeLillo.</i><br></p>
+<p align="center"><br><i>You'll see it when you believe it.</i><br><i>– Wayne Dyer.</i><br></p>
 <!-- QUOTE:END -->
 
