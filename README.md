@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Strong people make as many mistakes as weak people. Difference is that strong people admit their mistakes, laugh at them, learn from them. That is how they become strong.</i><br><i>– Richard Needham.</i><br></p>
+<p align="center"><br><i>We all grow up. Hopefully, we get wiser. Age brings wisdom, and fatherhood changes one's life completely.</i><br><i>– Frank Abagnale.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
