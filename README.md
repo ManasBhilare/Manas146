@@ -4,37 +4,76 @@
 
 ### <img src=https://github.com/Manas146/Manas146/blob/main/assests/Hi.gif width="29px"> Hello world!&nbsp;<img src=https://github.com/Manas146/Manas146/blob/main/assests/Earth.gif width="24px">
 
+<p>
+  <em>
+    I am a Final Year undergraduate from Pune,Maharashtra. <br>
+    <b>A Learning Enthusiast,</b>&nbsp;<img src=https://github.com/Manas146/Manas146/blob/main/assests/Designer.gif width="36px">  Getting into college was the <b>turning</b> point in my life. My <b>passion</b> for computers and <b>problem solving</b> made me choose a field in Computer Science. I had unlimited resources to learn from. And the underconfident personality of mine that I am not enough is what keeps me up at night and makes me learn new things every day. <img src=https://github.com/Manas146/Manas146/blob/main/assests/Rocket.gif width="18px">and 
+    <b>excel.</b> <img src=https://github.com/Manas146/Manas146/blob/main/assests/Medal.gif width="20px"> <br>
+   </em>  
+</p>
+
 <br>
 
-- <img alt="GIF" src=https://github.com/Manas146/Manas146/blob/main/assests/wave.gif width="20vw" /> I’m _currently_ **sleeping** 😴 or _working_ on my **laptop** 👨‍💻
-- <img alt="GIF" src=https://github.com/Manas146/Manas146/blob/main/assests/gandalf_parrot.gif width="20vw" /> I’m **good** in **Android Development** and **Web Development** With **Flutter**💪 and **React**❤️.
-- <img alt="GIF" src=https://github.com/Manas146/Manas146/blob/main/assests/hmm.gif width="20vw" /> Currently Learning **MERN**🤯 and working on improving my **Data Structures** and **Algorithm** skills👨‍💻.
-- <img alt="GIF" src=https://github.com/Manas146/Manas146/blob/main/assests/gandalf_parrot.gif width="20vw" /> I love making **React** and **Flutter** Projects👨‍💻 the most.
-- <img alt="GIF" src=https://github.com/Manas146/Manas146/blob/main/assests/hmm.gif width="20vw" /> I have interest in **Machine Learning**🤖 and **Open CV**🌐 also.
+- <img alt="GIF" src=https://github.com/Manas146/Manas146/blob/main/assests/wave.gif width="20vw" /> When I'm _not_ on a computer, I'm probably **making** _pour over coffee_ ☕ or _praticing_ my **guitar** 🎸
+- <img alt="GIF" src=https://github.com/Manas146/Manas146/blob/main/assests/gandalf_parrot.gif width="20vw" /> I’m **good** in **Web Development** With **MERN**💪
+- <img alt="GIF" src=https://github.com/Manas146/Manas146/blob/main/assests/hmm.gif width="20vw" /> Currently Learning **Flutter**🤯 and working on improving my **Data Structures** and **Algorithm** skills👨‍💻.
+- <img alt="GIF" src=https://github.com/Manas146/Manas146/blob/main/assests/gandalf_parrot.gif width="20vw" /> I love making **Computer Vision** Projects👨‍💻 the most.
+- <img alt="GIF" src=https://github.com/Manas146/Manas146/blob/main/assests/hmm.gif width="20vw" /> I have interest in **Machine Learning**🤖 and **Artificial Intelligence**🌐 also.
 - <img alt="GIF" src=https://github.com/Manas146/Manas146/blob/main/assests/headbang.gif width="20vw" /> I’m *open for collaboration*🧠 on **Any kind of projects**.
-- <img alt="GIF" src="https://github.com/Manas146/Manas146/blob/main/assests/happy.gif" width="20vw" /> _Ask me_ about **why do I think aliens 👽 exist.**
-- <img alt="GIF" src="https://github.com/Manas146/Manas146/blob/main/assests/wave.gif" width="20vw" /> Visit my Portfolio Website at <a href="https://satyamgoyal.social/"><b>satyamgoyal.social</b></a>👨‍💻 and do suggest me how to improve it.
+- <img alt="GIF" src="https://github.com/Manas146/Manas146/blob/main/assests/happy.gif" width="20vw" /> My _reallife superpower is_ **Knowing random facts about weird things 👽.**
+- <img alt="GIF" src="https://github.com/Manas146/Manas146/blob/main/assests/wave.gif" width="20vw" /> Visit my Portfolio Website at <a href="https://Manascodes.io/"><b>Manascodes.io</b></a>👨‍💻 and do suggest me how to improve it.
 - <img alt="GIF" src="https://github.com/Manas146/Manas146/blob/main/assests/coin.gif" width="20vw" /> **Fun fact:** Give enough coffee, I will code all day...☕👩‍💻**
 - <img alt="GIF" src="https://github.com/Manas146/Manas146/blob/main/assests/Medal.gif" width="20vw" /> Have a look at my Repos💡 & do Leave a **STAR**⭐️ if you like my work👨‍💻.
   <br>
+  
+  ## Spotify Playing 🎧
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/manas-bhilare-b618a11a7/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="manas bhilare" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-<br>
-
-## Spotify Playing 🎧
 [<img src="https://spotify-now-playing.manas-1.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" style="float: left; margin-right: 10px;" />](https://open.spotify.com/user/jkn442qk5naq25xsbaotvogxw)
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manas146&show_icons=true&locale=en" alt="manas146" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manas146&show_icons=true&locale=en" alt="manas146" /><img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/dinotocat.png" alt="dinotocat" style="float: left; margin-right: 20px;" width="200px" />
+
+<br>
+
+## Languages and Tools:
+
+<img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/> <img alt="Badge" style="float: left; margin-right: 10px;"  src ="https://img.shields.io/badge/Flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white"/> <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img alt="Badge" style="float: left; margin-right: 10px;"  src ="https://img.shields.io/badge/Jupyter_Notebook%20-%23F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white"/> <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/> <img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/> <img alt="Badge" style="float: left; margin-right: 10px;"  src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/> <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/> <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/> <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/OpenCV%20-%23FFBB00.svg?&style=for-the-badge&logo=Canonical&logoColor=white"/>
+
+<br>
+
+# Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
+
+  <a href="https://Manascodes.io">
+    <img align="left" alt="Manas Bhilare | Portfolio" width="24px" src="https://github.com/Manas146/Manas146/blob/main/assests/www.svg" />
+  <a href=https://www.linkedin.com/in/manas-bhilare-b618a11a7/>
+    <img align="left" alt="Manas Bhilare | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  </a> &nbsp;&nbsp;
+  <a href=https://developers.google.com/profile/u/105444343040428001470>
+    <img align="left" alt="Manas Bhilare | Google" width="24px" src=https://github.com/Manas146/Manas146/blob/main/assests/google.png />
+  </a> &nbsp;&nbsp;
+  <a href=https://stackoverflow.com/users/17092298/manas-bhilare>
+    <img align="left" alt="Manas Bhilare | Stack Overflow" width="24px" src=https://github.com/Manas146/Manas146/blob/main/assests/stack.png />
+  </a> &nbsp;&nbsp;
+  <a href="mailto:bhilaremanas@gmail.com">
+    <img align="left" alt="Manas Bhilare | Gmail" width="26px" src=https://github.com/Manas146/Manas146/blob/main/assests/Gmail.svg />
+  </a> &nbsp;&nbsp;
+  <a href="https://drive.google.com/file/d/1Y4t27dfSWL_p5uuYRDY7-jwe9ncUbUmu/view?usp=sharing">
+    <img align="left" alt="Satyam Goyal | Gmail" width="24px" src=https://github.com/Manas146/Manas146/blob/main/assests/resume.png />
+  </a> &nbsp;&nbsp;
+
+<br><br>
+
+<details>
+  <summary>:zap: Recent Github Activity</summary>
+  
+   <!--START_SECTION:activity-->
+
+</details>
+
+<b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>The pain passes, but the beauty remains.</i><br><i>– Pierre-Auguste Renoir.</i><br></p>
+<p align="center"><br><i>What lies behind us and what lies before us are small matters compared to what lies within us.</i><br><i>– Oliver Wendell Holmes Jr..</i><br></p>
 <!-- QUOTE:END -->
 
