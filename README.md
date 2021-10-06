@@ -29,6 +29,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manas146&show_icons=true&locale=en" alt="manas146" /></p>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Joy is the best makeup.</i><br><i>– Anne Lamott.</i><br></p>
+<p align="center"><br><i>I never see what has been done; I only see what remains to be done.</i><br><i>– Marie Curie.</i><br></p>
 <!-- QUOTE:END -->
 
