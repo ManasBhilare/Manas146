@@ -29,6 +29,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manas146&show_icons=true&locale=en" alt="manas146" /></p>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Rejoicing in our joy, not suffering over our suffering, makes someone a friend.</i><br><i>– Friedrich Nietzsche.</i><br></p>
+<p align="center"><br><i>Things do not change; we change.</i><br><i>– Henry David Thoreau.</i><br></p>
 <!-- QUOTE:END -->
 
