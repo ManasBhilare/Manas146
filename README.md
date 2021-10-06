@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>We all grow up. Hopefully, we get wiser. Age brings wisdom, and fatherhood changes one's life completely.</i><br><i>– Frank Abagnale.</i><br></p>
+<p align="center"><br><i>When we quit thinking primarily about ourselves and our own self-preservation, we undergo a truly heroic transformation of consciousness.</i><br><i>– Joseph Campbell.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
