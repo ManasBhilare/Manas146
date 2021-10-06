@@ -30,13 +30,11 @@
 
 <br>
 
-  
   ![Manas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manas146&count_private=true&show_icons=true&theme=radical&include_all_commits=true)<img src="https://github.com/Manas146/Manas146/blob/main/assests/dinotocat.png" alt="dinotocat" style="float: left; margin-right: 20px;" width="200px" /> 
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manas146&layout=compact&theme=radical)
   
   <br>
-
 
 ## Languages and Tools:
 
