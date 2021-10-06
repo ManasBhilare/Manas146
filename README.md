@@ -29,6 +29,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manas146&show_icons=true&locale=en" alt="manas146" /></p>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Always keep an open mind and a compassionate heart.</i><br><i>– Phil Jackson.</i><br></p>
+<p align="center"><br><i>Rejoicing in our joy, not suffering over our suffering, makes someone a friend.</i><br><i>– Friedrich Nietzsche.</i><br></p>
 <!-- QUOTE:END -->
 
