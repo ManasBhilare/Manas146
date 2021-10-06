@@ -42,12 +42,12 @@
 
 <br>
 
-# Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
+# Connect with me<img src="https://github.com/Manas146/Manas146/blob/main/assests/Handshake.gif" height="32px">
 
   <a href="https://Manascodes.io">
     <img align="left" alt="Manas Bhilare | Portfolio" width="24px" src="https://github.com/Manas146/Manas146/blob/main/assests/www.svg" />
   <a href=https://www.linkedin.com/in/manas-bhilare-b618a11a7/>
-    <img align="left" alt="Manas Bhilare | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+    <img align="left" alt="Manas Bhilare | Linkedin" width="24px" src="https://github.com/Manas146/Manas146/blob/main/assests/Linkedin.svg" />
   </a> &nbsp;&nbsp;
   <a href=https://developers.google.com/profile/u/105444343040428001470>
     <img align="left" alt="Manas Bhilare | Google" width="24px" src=https://github.com/Manas146/Manas146/blob/main/assests/google.png />
@@ -59,7 +59,7 @@
     <img align="left" alt="Manas Bhilare | Gmail" width="26px" src=https://github.com/Manas146/Manas146/blob/main/assests/Gmail.svg />
   </a> &nbsp;&nbsp;
   <a href="https://drive.google.com/file/d/1Y4t27dfSWL_p5uuYRDY7-jwe9ncUbUmu/view?usp=sharing">
-    <img align="left" alt="Satyam Goyal | Gmail" width="24px" src=https://github.com/Manas146/Manas146/blob/main/assests/resume.png />
+    <img align="left" alt="Manas Bhilare | Gmail" width="24px" src=https://github.com/Manas146/Manas146/blob/main/assests/resume.png />
   </a> &nbsp;&nbsp;
 
 <br><br>
