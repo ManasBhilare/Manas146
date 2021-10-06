@@ -26,7 +26,7 @@
   
   ## Spotify Playing 🎧
 
-[<img src="https://spotify-now-playing.Manas_1.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" style="float: left; margin-right: 10px;" />](https://open.spotify.com/user/jkn442qk5naq25xsbaotvogxw)
+[<img src="https://spotify-now-playing.Manas146.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" style="float: left; margin-right: 10px;" />](https://open.spotify.com/user/jkn442qk5naq25xsbaotvogxw)
 
 <br>
 
