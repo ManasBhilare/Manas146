@@ -1,7 +1,5 @@
 # Manas Bhilare&nbsp;<img src=https://github.com/Manas146/Manas146/blob/main/assests/Mario_Hello_Big.gif width="30px">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
-
 ### <img src=https://github.com/Manas146/Manas146/blob/main/assests/Hi.gif width="29px"> Hello world!&nbsp;<img src=https://github.com/Manas146/Manas146/blob/main/assests/Earth.gif width="24px">
 
 <p>
@@ -76,4 +74,5 @@
 <!-- QUOTE:START -->
 <p align="center"><br><i>Love is the attempt to form a friendship inspired by beauty.</i><br><i>– Cicero.</i><br></p>
 <!-- QUOTE:END -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
