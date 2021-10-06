@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Manas Bhilare</h1>
-<h3 align="center">" My knowledge provides worth to my words " - Huzo Zhyrhy 👩‍💻</h3>
+# Manas Bhilare&nbsp;<img src="https://github.com/Manas146/Manas146/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
