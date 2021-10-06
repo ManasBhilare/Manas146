@@ -2,14 +2,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
-## 📢 I'm a Student, Developer, and Open-Source enthusiast!!
+### <img src=https://github.com/Manas146/Manas146/blob/main/assests/Hi.gif width="29px"> Hello world!&nbsp;<img src=https://github.com/Manas146/Manas146/blob/main/assests/Earth.gif width="24px">
 
+<br>
 
-- 🌱 I’m currently learning **•Machine Learning •Artificial Intelligence •Full Stack Web Development •Android Development •Competitive Programming**
-
-- 📫 How to reach me **bhilaremanas@gmail.com**
-
-- ⚡ Fun fact **Give enough coffee, I will code all day...☕👩‍💻**
+- <img alt="GIF" src=https://github.com/Manas146/Manas146/blob/main/assests/wave.gif width="20vw" /> I’m _currently_ **sleeping** 😴 or _working_ on my **laptop** 👨‍💻
+- <img alt="GIF" src=https://github.com/Manas146/Manas146/blob/main/assests/gandalf_parrot.gif width="20vw" /> I’m **good** in **Android Development** and **Web Development** With **Flutter**💪 and **React**❤️.
+- <img alt="GIF" src=https://github.com/Manas146/Manas146/blob/main/assests/hmm.gif width="20vw" /> Currently Learning **MERN**🤯 and working on improving my **Data Structures** and **Algorithm** skills👨‍💻.
+- <img alt="GIF" src=https://github.com/Manas146/Manas146/blob/main/assests/gandalf_parrot.gif width="20vw" /> I love making **React** and **Flutter** Projects👨‍💻 the most.
+- <img alt="GIF" src=https://github.com/Manas146/Manas146/blob/main/assests/hmm.gif width="20vw" /> I have interest in **Machine Learning**🤖 and **Open CV**🌐 also.
+- <img alt="GIF" src=https://github.com/Manas146/Manas146/blob/main/assests/headbang.gif width="20vw" /> I’m *open for collaboration*🧠 on **Any kind of projects**.
+- <img alt="GIF" src="https://github.com/Manas146/Manas146/blob/main/assests/happy.gif" width="20vw" /> _Ask me_ about **why do I think aliens 👽 exist.**
+- <img alt="GIF" src="https://github.com/Manas146/Manas146/blob/main/assests/wave.gif" width="20vw" /> Visit my Portfolio Website at <a href="https://satyamgoyal.social/"><b>satyamgoyal.social</b></a>👨‍💻 and do suggest me how to improve it.
+- <img alt="GIF" src="https://github.com/Manas146/Manas146/blob/main/assests/coin.gif" width="20vw" /> **Fun fact:** Give enough coffee, I will code all day...☕👩‍💻**
+- <img alt="GIF" src="https://github.com/Manas146/Manas146/blob/main/assests/Medal.gif" width="20vw" /> Have a look at my Repos💡 & do Leave a **STAR**⭐️ if you like my work👨‍💻.
+  <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
