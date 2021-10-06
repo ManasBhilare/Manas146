@@ -35,6 +35,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manas146&show_icons=true&locale=en" alt="manas146" /></p>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>What lies behind us and what lies before us are small matters compared to what lies within us.</i><br><i>– Oliver Wendell Holmes Jr..</i><br></p>
+<p align="center"><br><i>The pain passes, but the beauty remains.</i><br><i>– Pierre-Auguste Renoir.</i><br></p>
 <!-- QUOTE:END -->
 
