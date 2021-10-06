@@ -30,9 +30,13 @@
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manas146&show_icons=true&locale=en" alt="manas146" /><img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/dinotocat.png" alt="dinotocat" style="float: left; margin-right: 20px;" width="200px" />
+  
+  ![Manas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manas146&count_private=true&show_icons=true&theme=radical&include_all_commits=true)<img src="https://github.com/Manas146/Manas146/blob/main/assests/dinotocat.png" alt="dinotocat" style="float: left; margin-right: 20px;" width="200px" /> 
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manas146&layout=compact&theme=radical)
+  
+  <br>
 
-<br>
 
 ## Languages and Tools:
 
