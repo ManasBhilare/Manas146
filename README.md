@@ -4,7 +4,7 @@
 
 <p>
   <em>
-    I am a Final Year undergraduate from Pune,Maharashtra. <br>
+    I am a Third Year undergraduate from Pune,Maharashtra. <br>
     <b>A Learning Enthusiast,</b>&nbsp;<img src=https://github.com/Manas146/Manas146/blob/main/assests/Designer.gif width="36px">  Getting into college was the <b>turning</b> point in my life. My <b>passion</b> for computers and <b>problem solving</b> made me choose a field in Computer Science. I had unlimited resources to learn from. And the underconfident personality of mine that I am not enough is what keeps me up at night and makes me learn new things every day. <img src=https://github.com/Manas146/Manas146/blob/main/assests/Rocket.gif width="18px">and 
     <b>excel.</b> <img src=https://github.com/Manas146/Manas146/blob/main/assests/Medal.gif width="20px"> <br>
    </em>  
