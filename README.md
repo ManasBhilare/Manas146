@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Autumn is a second spring when every leaf is a flower.</i><br><i>– Albert Camus.</i><br></p>
+<p align="center"><br><i>So long as a person is capable of self-renewal they are a living being.</i><br><i>– Henri-Frédéric Amiel.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
