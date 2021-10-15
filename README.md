@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>True happiness means forging a strong spirit that is undefeated, no matter how trying our circumstances.</i><br><i>– Daisaku Ikeda.</i><br></p>
+<p align="center"><br><i>The attempt to combine wisdom and power has only rarely been successful and then only for a short while.</i><br><i>– Albert Einstein.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
