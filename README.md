@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>To keep your secret is wisdom; but to expect others to keep it is folly.</i><br><i>– Samuel Johnson.</i><br></p>
+<p align="center"><br><i>We make our own fortunes and we call them fate.</i><br><i>– Benjamin Disraeli.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
