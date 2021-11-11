@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Kind words do not cost much. Yet they accomplish much.</i><br><i>– Blaise Pascal.</i><br></p>
+<p align="center"><br><i>I seek constantly to improve my manners and graces, for they are the sugar to which all are attracted.</i><br><i>– Og Mandino.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
