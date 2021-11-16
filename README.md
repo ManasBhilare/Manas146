@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Rejoicing in our joy, not suffering over our suffering, makes someone a friend.</i><br><i>– Friedrich Nietzsche.</i><br></p>
+<p align="center"><br><i>Happiness is the reward we get for living to the highest right we know.</i><br><i>– Richard Bach.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
