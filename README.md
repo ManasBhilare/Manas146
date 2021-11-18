@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Meditation brings wisdom, lack of meditation leaves ignorance. Know well what leads you forward and what holds you back and choose the path that leads to wisdom.</i><br><i>– Buddha.</i><br></p>
+<p align="center"><br><i>Always be smarter than the people who hire you.</i><br><i>– Lena Horne.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
