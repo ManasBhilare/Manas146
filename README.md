@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>I will prepare and someday my chance will come.</i><br><i>– Abraham Lincoln.</i><br></p>
+<p align="center"><br><i>For it was not into my ear you whispered, but into my heart. It was not my lips you kissed, but my soul.</i><br><i>– Judy Garland.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
