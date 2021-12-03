@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Love, friendship and respect do not unite people as much as a common hatred for something.</i><br><i>– Anton Chekhov.</i><br></p>
+<p align="center"><br><i>To effectively communicate, we must realize that we are all different in the way we perceive the world and use this understanding as a guide to our communication with others.</i><br><i>– Tony Robbins.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
