@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Cleverness is not wisdom.</i><br><i>– Euripides.</i><br></p>
+<p align="center"><br><i>Character is like a tree and reputation like a shadow. The shadow is what we think of it; the tree is the real thing.</i><br><i>– Abraham Lincoln.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
