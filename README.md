@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>The greatest mistake you can make in life is to be continually fearing you will make one.</i><br><i>– Elbert Hubbard.</i><br></p>
+<p align="center"><br><i>Love is the attempt to form a friendship inspired by beauty.</i><br><i>– Cicero.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
