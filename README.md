@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Wisdom comes alone through suffering.</i><br><i>– Aeschylus.</i><br></p>
+<p align="center"><br><i>Never apologize for showing feeling. When you do so, you apologize for truth.</i><br><i>– Benjamin Disraeli.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
