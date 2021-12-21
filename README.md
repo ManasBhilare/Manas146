@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>We know the truth, not only by the reason, but by the heart.</i><br><i>– Blaise Pascal.</i><br></p>
+<p align="center"><br><i>Continuous effort - not strength or intelligence - is the key to unlocking our potential.</i><br><i>– Winston Churchill.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
