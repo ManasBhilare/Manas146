@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Before you put on a frown, make absolutely sure there are no smiles available.</i><br><i>– James M. Beggs.</i><br></p>
+<p align="center"><br><i>We don't receive wisdom; we must discover it for ourselves after a journey that no one can take for us or spare us.</i><br><i>– Marcel Proust.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
