@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>The friendship that can cease has never been real.</i><br><i>– Jerome.</i><br></p>
+<p align="center"><br><i>I can't believe that God put us on this earth to be ordinary.</i><br><i>– Lou Holtz.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
