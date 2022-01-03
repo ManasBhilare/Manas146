@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>If one is estranged from oneself, then one is estranged from others too. If one is out of touch with oneself, then one cannot touch others.</i><br><i>– Anne Lindbergh.</i><br></p>
+<p align="center"><br><i>Always be a first-rate version of yourself, instead of a second-rate version of somebody else.</i><br><i>– Judy Garland.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
