@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Happiness is not in the mere possession of money; it lies in the joy of achievement, in the thrill of creative effort.</i><br><i>– Franklin D. Roosevelt.</i><br></p>
+<p align="center"><br><i>I never worry about action, but only inaction.</i><br><i>– Winston Churchill.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
