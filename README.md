@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Don't talk about what you have done or what you are going to do.</i><br><i>– Thomas Jefferson.</i><br></p>
+<p align="center"><br><i>The place to improve the world is first in one's own heart and head and hands.</i><br><i>– Robert M. Pirsig.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
