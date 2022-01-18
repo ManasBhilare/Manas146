@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>The world cares very little about what a man or woman knows; it is what a man or woman is able to do that counts.</i><br><i>– Booker T. Washington.</i><br></p>
+<p align="center"><br><i>You learn to speak by speaking, to study by studying, to run by running, to work by working; in just the same way, you learn to love by loving.</i><br><i>– Anatole France.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
