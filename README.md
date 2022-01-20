@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Those who dare to fail miserably can achieve greatly.</i><br><i>– John F. Kennedy.</i><br></p>
+<p align="center"><br><i>Be slow to fall into friendship; but when thou art in, continue firm and constant.</i><br><i>– Isocrates.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
