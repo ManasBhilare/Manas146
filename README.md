@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>The three great essentials to achieve anything worthwhile are: Hard work, Stick-to-itiveness, and Common sense.</i><br><i>– Thomas Edison.</i><br></p>
+<p align="center"><br><i>We cannot do everything at once, but we can do something at once.</i><br><i>– Calvin Coolidge.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
