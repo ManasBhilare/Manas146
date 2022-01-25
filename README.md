@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>There is no passion to be found playing small - in settling for a life that is less than the one you are capable of living.</i><br><i>– Nelson Mandela.</i><br></p>
+<p align="center"><br><i>You always succeed in producing a result.</i><br><i>– Tony Robbins.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
