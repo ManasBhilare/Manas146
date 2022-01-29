@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>I have never been hurt by anything I didn't say.</i><br><i>– Calvin Coolidge.</i><br></p>
+<p align="center"><br><i>Genius is one percent inspiration and ninety-nine percent perspiration.</i><br><i>– Thomas Edison.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
