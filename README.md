@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>You are never given a wish without also being given the power to make it come true. You may have to work for it, however.</i><br><i>– Richard Bach.</i><br></p>
+<p align="center"><br><i>We should not judge people by their peak of excellence; but by the distance they have traveled from the point where they started.</i><br><i>– Henry Ward Beecher.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
