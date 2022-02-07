@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>The only Zen you find on the tops of mountains is the Zen you bring up there.</i><br><i>– Robert M. Pirsig.</i><br></p>
+<p align="center"><br><i>If you do not express your own original ideas, if you do not listen to your own being, you will have betrayed yourself.</i><br><i>– Rollo May.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
