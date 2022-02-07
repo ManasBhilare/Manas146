@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>There is no retirement for an artist, it's your way of living so there is no end to it.</i><br><i>– Henry Moore.</i><br></p>
+<p align="center"><br><i>The aim of life is self-development. To realize one's nature perfectly - that is what each of us is here for.</i><br><i>– Oscar Wilde.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
