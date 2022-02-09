@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Tragedy is a tool for the living to gain wisdom, not a guide by which to live.</i><br><i>– Robert F. Kennedy.</i><br></p>
+<p align="center"><br><i>It is not wisdom but Authority that makes a law.</i><br><i>– Thomas Hobbes.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
