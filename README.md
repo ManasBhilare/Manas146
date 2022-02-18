@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>There is not one big cosmic meaning for all, there is only the meaning we each give to our life.</i><br><i>– Anaïs Nin.</i><br></p>
+<p align="center"><br><i>Never idealize others. They will never live up to your expectations.</i><br><i>– Leo Buscaglia.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
