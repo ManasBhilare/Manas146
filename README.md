@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>No party has a monopoly on wisdom. No democracy works without compromise. But when Governor Romney and his allies in Congress tell us we can somehow lower our deficit by spending trillions more on new tax breaks for the wealthy - well, you do the math. I refuse to go along with that. And as long as I'm President, I never will.</i><br><i>– Barack Obama.</i><br></p>
+<p align="center"><br><i>There is not one big cosmic meaning for all, there is only the meaning we each give to our life.</i><br><i>– Anaïs Nin.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
