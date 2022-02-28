@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>When an opponent comes forward, move in and greet him; if he wants to pull back, send him on his way.</i><br><i>– Morihei Ueshiba.</i><br></p>
+<p align="center"><br><i>Work while you have the light. You are responsible for the talent that has been entrusted to you.</i><br><i>– Henri-Frédéric Amiel.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
