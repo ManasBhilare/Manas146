@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>It is very easy to forgive others their mistakes; it takes more grit to forgive them for having witnessed your own.</i><br><i>– Jessamyn West.</i><br></p>
+<p align="center"><br><i>We can only learn to love by loving.</i><br><i>– Iris Murdoch.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
