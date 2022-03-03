@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Friendship brings in a lot of honesty and trust into any relationship, especially a marriage.</i><br><i>– Farhan Akhtar.</i><br></p>
+<p align="center"><br><i>A man is great by deeds, not by birth.</i><br><i>– Chanakya.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
