@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>You were not born a winner, and you were not born a loser. You are what you make yourself be.</i><br><i>– Lou Holtz.</i><br></p>
+<p align="center"><br><i>The truest wisdom is a resolute determination.</i><br><i>– Napoleon.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
