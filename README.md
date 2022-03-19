@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Friendship is one of our most treasured relationships, but it isn't codified and celebrated; it's never going to give you a party.</i><br><i>– Hanya Yanagihara.</i><br></p>
+<p align="center"><br><i>To be beautiful means to be yourself. You don't need to be accepted by others. You need to accept yourself.</i><br><i>– Thích Nhất Hạnh.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
