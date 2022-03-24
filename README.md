@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>The person born with a talent they are meant to use will find their greatest happiness in using it.</i><br><i>– Johann Wolfgang von Goethe.</i><br></p>
+<p align="center"><br><i>Success is not final; failure is not fatal: it is the courage to continue that counts.</i><br><i>– Winston Churchill.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
