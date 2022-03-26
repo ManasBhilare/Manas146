@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>We are what our thoughts have made us; so take care about what you think. Words are secondary. Thoughts live; they travel far.</i><br><i>– Swami Vivekananda.</i><br></p>
+<p align="center"><br><i>Action may not always bring happiness; but there is no happiness without action.</i><br><i>– Benjamin Disraeli.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
