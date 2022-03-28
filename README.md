@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>I have often regretted my speech, never my silence.</i><br><i>– Publilius Syrus.</i><br></p>
+<p align="center"><br><i>Friendship is an arrangement by which we undertake to exchange small favors for big ones.</i><br><i>– Montesquieu.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
