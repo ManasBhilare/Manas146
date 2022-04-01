@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>O, what a tangled web we weave when first we practice to deceive!</i><br><i>– Walter Scott.</i><br></p>
+<p align="center"><br><i>Time changes everything except something within us which is always surprised by change.</i><br><i>– Thomas Hardy.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
