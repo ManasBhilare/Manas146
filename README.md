@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Goals are the fuel in the furnace of achievement.</i><br><i>– Brian Tracy.</i><br></p>
+<p align="center"><br><i>Logic will get you from A to B. Imagination will take you everywhere.</i><br><i>– Albert Einstein.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
