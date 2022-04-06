@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>The happiness of a man in this life does not consist in the absence but in the mastery of his passions.</i><br><i>– Alfred Tennyson.</i><br></p>
+<p align="center"><br><i>You learn to speak by speaking, to study by studying, to run by running, to work by working; in just the same way, you learn to love by loving.</i><br><i>– Anatole France.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
