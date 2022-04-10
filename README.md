@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher.</i><br><i>– Pema Chödrön.</i><br></p>
+<p align="center"><br><i>You can tell whether a man is clever by his answers. You can tell whether a man is wise by his questions.</i><br><i>– Naguib Mahfouz.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
