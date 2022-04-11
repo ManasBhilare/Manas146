@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Experience is simply the name we give our mistakes.</i><br><i>– Oscar Wilde.</i><br></p>
+<p align="center"><br><i>The supreme art of war is to subdue the enemy without fighting.</i><br><i>– Sun Tzu.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
