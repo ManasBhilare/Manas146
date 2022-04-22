@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>When I let go of what I am, I become what I might be.</i><br><i>– Laozi.</i><br></p>
+<p align="center"><br><i>I don't need a friend who changes when I change and who nods when I nod; my shadow does that much better.</i><br><i>– Plutarch.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
