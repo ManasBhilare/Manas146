@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Everyone has been made for some particular work, and the desire for that work has been put in every heart.</i><br><i>– Rumi.</i><br></p>
+<p align="center"><br><i>There are two ways to slide easily through life: to believe everything or to doubt everything; both ways save us from thinking.</i><br><i>– Alfred Korzybski.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
