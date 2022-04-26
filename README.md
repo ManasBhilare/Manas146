@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>A passion for politics stems usually from an insatiable need, either for power, or for friendship and adulation, or a combination of both.</i><br><i>– Fawn M. Brodie.</i><br></p>
+<p align="center"><br><i>If you smile when no one else is around, you really mean it.</i><br><i>– Andy Rooney.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
