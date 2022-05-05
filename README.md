@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>If one is lucky, a solitary fantasy can totally transform one million realities.</i><br><i>– Maya Angelou.</i><br></p>
+<p align="center"><br><i>Only through our connectedness to others can we really know and enhance the self. And only through working on the self can we begin to enhance our connectedness to others.</i><br><i>– Harriet Lerner.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
