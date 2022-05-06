@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>A thing long expected takes the form of the unexpected when at last it comes.</i><br><i>– Mark Twain.</i><br></p>
+<p align="center"><br><i>To make no mistakes is not in the power of man; but from their errors and mistakes the wise and good learn wisdom for the future.</i><br><i>– Plutarch.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
