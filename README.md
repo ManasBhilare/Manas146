@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>If you seek truth, you will not seek victory by dishonorable means, and if you find truth you will become invincible.</i><br><i>– Epictetus.</i><br></p>
+<p align="center"><br><i>Until you value yourself, you won't value your time. Until you value your time, you won't do anything with it.</i><br><i>– M. Scott Peck.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
