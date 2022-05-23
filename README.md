@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Knowledge rests not upon truth alone, but upon error also.</i><br><i>– Carl Jung.</i><br></p>
+<p align="center"><br><i>Just as a candle cannot burn without fire, men cannot live without a spiritual life.</i><br><i>– Buddha.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
