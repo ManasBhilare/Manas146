@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Friends are those rare people who ask how we are and then wait to hear the answer.</i><br><i>– Ed Cunningham.</i><br></p>
+<p align="center"><br><i>Hope arouses, as nothing else can arouse, a passion for the possible.</i><br><i>– William Sloane Coffin.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
