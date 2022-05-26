@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Doing nothing is better than being busy doing nothing.</i><br><i>– Laozi.</i><br></p>
+<p align="center"><br><i>Do not mind anything that anyone tells you about anyone else. Judge everyone and everything for yourself.</i><br><i>– Henry James.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
