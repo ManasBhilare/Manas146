@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>If you'll not settle for anything less than your best, you will be amazed at what you can accomplish in your lives.</i><br><i>– Vince Lombardi.</i><br></p>
+<p align="center"><br><i>Waste no more time arguing about what a good man should be. Be one.</i><br><i>– Marcus Aurelius.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
