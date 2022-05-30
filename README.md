@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>It is difficult to achieve a spirit of genuine cooperation as long as people remain indifferent to the feelings and happiness of others.</i><br><i>– Dalai Lama.</i><br></p>
+<p align="center"><br><i>There is a difference between happiness and wisdom: he that thinks himself the happiest man is really so; but he that thinks himself the wisest is generally the greatest fool.</i><br><i>– Francis Bacon.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
