@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>The conditions of conquest are always easy. We have but to toil awhile, endure awhile, believe always, and never turn back.</i><br><i>– Seneca the Younger.</i><br></p>
+<p align="center"><br><i>You can only grow if you're willing to feel awkward and uncomfortable when you try something new.</i><br><i>– Brian Tracy.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
