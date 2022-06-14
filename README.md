@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>The highest stage in moral culture at which we can arrive is when we recognize that we ought to control our thoughts.</i><br><i>– Charles Darwin.</i><br></p>
+<p align="center"><br><i>Blessed is the man who expects nothing, for he shall never be disappointed.</i><br><i>– Alexander Pope.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
