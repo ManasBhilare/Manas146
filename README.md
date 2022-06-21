@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>As you walk in God's divine wisdom, you will surely begin to see a greater measure of victory and good success in your life.</i><br><i>– Joseph Prince.</i><br></p>
+<p align="center"><br><i>If we could see the miracle of a single flower clearly, our whole life would change.</i><br><i>– Buddha.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
