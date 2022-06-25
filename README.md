@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>The only Zen you find on the tops of mountains is the Zen you bring up there.</i><br><i>– Robert M. Pirsig.</i><br></p>
+<p align="center"><br><i>Change is the law of life. And those who look only to the past or present are certain to miss the future.</i><br><i>– John F. Kennedy.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
