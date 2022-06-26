@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>The sincere friends of this world are as ship lights in the stormiest of nights.</i><br><i>– Giotto.</i><br></p>
+<p align="center"><br><i>The universe is full of magical things, patiently waiting for our wits to grow sharper.</i><br><i>– Eden Phillpotts.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
