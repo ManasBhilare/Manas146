@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Music is a higher revelation than all wisdom and philosophy.</i><br><i>– Ludwig van Beethoven.</i><br></p>
+<p align="center"><br><i>Trust your hunches. They're usually based on facts filed away just below the conscious level.</i><br><i>– Joyce Brothers.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
