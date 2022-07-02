@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>The man who trusts men will make fewer mistakes than he who distrusts them.</i><br><i>– Camillo Benso, Count of Cavour.</i><br></p>
+<p align="center"><br><i>If one way be better than another, that you may be sure is nature's way.</i><br><i>– Aristotle.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
