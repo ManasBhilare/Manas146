@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>I believe that every person is born with talent.</i><br><i>– Maya Angelou.</i><br></p>
+<p align="center"><br><i>Just be patient. Let the game come to you. Don't rush. Be quick, but don't hurry.</i><br><i>– Earl Monroe.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
