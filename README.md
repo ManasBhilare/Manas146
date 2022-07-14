@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>What the caterpillar calls the end of the world, the master calls a butterfly.</i><br><i>– Richard Bach.</i><br></p>
+<p align="center"><br><i>Between saying and doing, many a pair of shoes is worn out.</i><br><i>– Iris Murdoch.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
