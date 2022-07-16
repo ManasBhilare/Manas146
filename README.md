@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love.</i><br><i>– Laozi.</i><br></p>
+<p align="center"><br><i>I have learned that to be with those I like is enough.</i><br><i>– Walt Whitman.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
