@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>The first duty of a human being is to assume the right functional relationship to society - more briefly, to find your real job, and do it.</i><br><i>– Charlotte Perkins Gilman.</i><br></p>
+<p align="center"><br><i>All love that has not friendship for its base, is like a mansion built upon the sand.</i><br><i>– Ella Wheeler Wilcox.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
