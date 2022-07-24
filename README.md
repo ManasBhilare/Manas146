@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>An appeaser is one who feeds a crocodile, hoping it will eat him last.</i><br><i>– Winston Churchill.</i><br></p>
+<p align="center"><br><i>It's important to know that words don't move mountains. Work, exacting work moves mountains.</i><br><i>– Danilo Dolci.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
