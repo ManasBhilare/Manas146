@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>The more light you allow within you, the brighter the world you live in will be.</i><br><i>– Shakti Gawain.</i><br></p>
+<p align="center"><br><i>Perseverance is a great element of success. If you only knock long enough and loud enough at the gate, you are sure to wake up somebody.</i><br><i>– Henry Wadsworth Longfellow.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
