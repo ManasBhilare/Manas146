@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Think like a man of action; act like a man of thought.</i><br><i>– Henri Bergson.</i><br></p>
+<p align="center"><br><i>In the business world, everyone is paid in two coins: cash and experience. Take the experience first; the cash will come later.</i><br><i>– Harold Geneen.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
