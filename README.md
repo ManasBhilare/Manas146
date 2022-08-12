@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>This is why I loved technology: if you used it right, it could give you power and privacy.</i><br><i>– Cory Doctorow.</i><br></p>
+<p align="center"><br><i>The possession of knowledge does not kill the sense of wonder and mystery. There is always more mystery.</i><br><i>– Anaïs Nin.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
