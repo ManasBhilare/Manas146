@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>A leader or a man of action in a crisis almost always acts subconsciously and then thinks of the reasons for his action.</i><br><i>– Jawaharlal Nehru.</i><br></p>
+<p align="center"><br><i>Technology is anything that wasn't around when you were born.</i><br><i>– Man Ray.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
