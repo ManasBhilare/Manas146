@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>The right way is not always the popular and easy way. Standing for right when it is unpopular is a true test of moral character.</i><br><i>– Margaret Chase Smith.</i><br></p>
+<p align="center"><br><i>Every time you smile at someone, it is an action of love, a gift to that person, a beautiful thing.</i><br><i>– Mother Teresa.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
