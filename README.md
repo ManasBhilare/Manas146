@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>In wisdom gathered over time I have found that every experience is a form of exploration.</i><br><i>– Ansel Adams.</i><br></p>
+<p align="center"><br><i>Blessed are the hearts that can bend; they shall never be broken.</i><br><i>– Albert Camus.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
