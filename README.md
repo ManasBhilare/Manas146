@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.</i><br><i>– Thomas Edison.</i><br></p>
+<p align="center"><br><i>Don't ruin the present with the ruined past.</i><br><i>– Ellen Gilchrist.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
