@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>It is common sense to take a method and try it. If it fails, admit it frankly and try another. But above all, try something.</i><br><i>– Franklin D. Roosevelt.</i><br></p>
+<p align="center"><br><i>I never see what has been done; I only see what remains to be done.</i><br><i>– Marie Curie.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
