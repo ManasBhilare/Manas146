@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>The philosophy of the school room in one generation will be the philosophy of government in the next.</i><br><i>– Abraham Lincoln.</i><br></p>
+<p align="center"><br><i>Government of the people, by the people, for the people, shall not perish from the Earth.</i><br><i>– Abraham Lincoln.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
