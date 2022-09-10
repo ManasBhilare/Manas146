@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>The final wisdom of life requires not the annulment of incongruity but the achievement of serenity within and above it.</i><br><i>– Reinhold Niebuhr.</i><br></p>
+<p align="center"><br><i>Those who are blessed with the most talent don't necessarily outperform everyone else. It's the people with follow-through who excel.</i><br><i>– Mary Kay Ash.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
