@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>All is flux; nothing stays still.</i><br><i>– Heraclitus.</i><br></p>
+<p align="center"><br><i>The trick is in what one emphasizes. We either make ourselves miserable, or we make ourselves happy. The amount of work is the same.</i><br><i>– Carlos Castaneda.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
