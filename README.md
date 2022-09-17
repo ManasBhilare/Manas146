@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>No enterprise is more likely to succeed than one concealed from the enemy until it is ripe for execution.</i><br><i>– Niccolò Machiavelli.</i><br></p>
+<p align="center"><br><i>Happiness is when what you think, what you say, and what you do are in harmony.</i><br><i>– Mahatma Gandhi.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
