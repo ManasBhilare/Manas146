@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Chance is always powerful. Let your hook be always cast; in the pool where you least expect it, there will be a fish.</i><br><i>– Ovid.</i><br></p>
+<p align="center"><br><i>But the attitude of faith is to let go, and become open to truth, whatever it might turn out to be.</i><br><i>– Alan Watts.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
