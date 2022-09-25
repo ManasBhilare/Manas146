@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>But the attitude of faith is to let go, and become open to truth, whatever it might turn out to be.</i><br><i>– Alan Watts.</i><br></p>
+<p align="center"><br><i>It is good even for old men to learn wisdom.</i><br><i>– Aeschylus.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
