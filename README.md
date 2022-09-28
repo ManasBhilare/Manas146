@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>You can't let praise or criticism get to you. It's a weakness to get caught up in either one.</i><br><i>– John Wooden.</i><br></p>
+<p align="center"><br><i>Knowledge speaks, but wisdom listens.</i><br><i>– Jimi Hendrix.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
