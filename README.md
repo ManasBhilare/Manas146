@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>You have to do your own growing no matter how tall your grandfather was.</i><br><i>– Abraham Lincoln.</i><br></p>
+<p align="center"><br><i>Even if you're on the right track, you'll get run over if you just sit there.</i><br><i>– Will Rogers.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
