@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>It's better to be a lion for a day than a sheep all your life.</i><br><i>– Elizabeth Kenny.</i><br></p>
+<p align="center"><br><i>The weak can never forgive. Forgiveness is the attribute of the strong.</i><br><i>– Mahatma Gandhi.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
