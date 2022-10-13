@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Without courage, wisdom bears no fruit.</i><br><i>– Baltasar Gracián.</i><br></p>
+<p align="center"><br><i>If it turns out that there is a God, I don't think that he's evil. But the worst that you can say about him is that basically he's an underachiever.</i><br><i>– Woody Allen.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
