@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>An economist is an expert who will know tomorrow why the things he predicted yesterday didn't happen today.</i><br><i>– Laurence J. Peter.</i><br></p>
+<p align="center"><br><i>You and I are all as much continuous with the physical universe as a wave is continuous with the ocean.</i><br><i>– Alan Watts.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
