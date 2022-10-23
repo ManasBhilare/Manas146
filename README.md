@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>By believing passionately in something that does not yet exist, we create it.</i><br><i>– Nikos Kazantzakis.</i><br></p>
+<p align="center"><br><i>Love is the wisdom of the fool and the folly of the wise.</i><br><i>– Samuel Johnson.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
