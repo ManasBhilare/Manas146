@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>It is the nature of the wise to resist pleasures, but the foolish to be a slave to them.</i><br><i>– Epictetus.</i><br></p>
+<p align="center"><br><i>A man should look for what is, and not for what he thinks should be.</i><br><i>– Albert Einstein.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
