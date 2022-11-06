@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>The really unhappy person is the one who leaves undone what they can do, and starts doing what they don't understand; no wonder they come to grief.</i><br><i>– Johann Wolfgang von Goethe.</i><br></p>
+<p align="center"><br><i>The entrepreneur always searches for change, responds to it, and exploits it as an opportunity.</i><br><i>– Peter Drucker.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
