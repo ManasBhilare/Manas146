@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>The pain passes, but the beauty remains.</i><br><i>– Pierre-Auguste Renoir.</i><br></p>
+<p align="center"><br><i>The trouble with most people is that they think with their hopes or fears or wishes rather than with their minds.</i><br><i>– Will Durant.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
