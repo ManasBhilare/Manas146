@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>We must not say every mistake is a foolish one.</i><br><i>– Cicero.</i><br></p>
+<p align="center"><br><i>You and I are all as much continuous with the physical universe as a wave is continuous with the ocean.</i><br><i>– Alan Watts.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
