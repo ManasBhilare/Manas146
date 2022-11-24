@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>I care not so much what I am to others as what I am to myself. I will be rich by myself, and not by borrowing.</i><br><i>– Michel de Montaigne.</i><br></p>
+<p align="center"><br><i>In friendship as well as love, ignorance very often contributes more to our happiness than knowledge.</i><br><i>– François de La Rochefoucauld.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
