@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>A man may fulfil the object of his existence by asking a question he cannot answer and attempting a task he cannot achieve.</i><br><i>– Oliver Wendell Holmes Jr..</i><br></p>
+<p align="center"><br><i>Life is 10% what happens to you and 90% how you react to it.</i><br><i>– Chuck Swindoll.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
