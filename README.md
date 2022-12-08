@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Many men go fishing all of their lives without knowing that it is not fish they are after.</i><br><i>– Henry David Thoreau.</i><br></p>
+<p align="center"><br><i>Two of man's basic needs are to love and to share. Both of these needs are satisfied in greater or lesser degree by friendship.</i><br><i>– Mother Angelica.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
