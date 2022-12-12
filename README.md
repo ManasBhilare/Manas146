@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Success is getting what you want. Happiness is wanting what you get.</i><br><i>– Dale Carnegie.</i><br></p>
+<p align="center"><br><i>Good people are good because they've come to wisdom through failure. We get very little wisdom from success, you know.</i><br><i>– William Saroyan.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
