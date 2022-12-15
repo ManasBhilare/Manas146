@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>The moment one gives close attention to anything, it becomes a mysterious, awesome, indescribably magnificent world in itself.</i><br><i>– Henry Miller.</i><br></p>
+<p align="center"><br><i>It always seems impossible until it's done.</i><br><i>– Nelson Mandela.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
