@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>You cannot find yourself by going into the past. You can find yourself by coming into the present.</i><br><i>– Eckhart Tolle.</i><br></p>
+<p align="center"><br><i>And the attitude of faith is the very opposite of clinging to belief, of holding on.</i><br><i>– Alan Watts.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
