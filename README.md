@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>A business that makes nothing but money is a poor business.</i><br><i>– Henry Ford.</i><br></p>
+<p align="center"><br><i>Adversity has the effect of eliciting talents, which in prosperous circumstances would have lain dormant.</i><br><i>– Horace.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
