@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>TV and the Internet are good because they keep stupid people from spending too much time out in public.</i><br><i>– Douglas Coupland.</i><br></p>
+<p align="center"><br><i>If you do not change direction, you may end up where you are heading.</i><br><i>– Laozi.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
