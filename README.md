@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>You must do the things you think you cannot do.</i><br><i>– Eleanor Roosevelt.</i><br></p>
+<p align="center"><br><i>The greater part of human pain is unnecessary. It is self-created as long as the unobserved mind runs your life.</i><br><i>– Eckhart Tolle.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
