@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Peace comes from within. Do not seek it without.</i><br><i>– Buddha.</i><br></p>
+<p align="center"><br><i>Do you want to know who you are? Don't ask. Act! Action will delineate and define you.</i><br><i>– Thomas Jefferson.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
