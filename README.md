@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves.</i><br><i>– Laozi.</i><br></p>
+<p align="center"><br><i>True friendship can afford true knowledge. It does not depend on darkness and ignorance.</i><br><i>– Henry David Thoreau.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
