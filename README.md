@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Now this is not the end. It is not even the beginning of the end. But it is, perhaps, the end of the beginning.</i><br><i>– Winston Churchill.</i><br></p>
+<p align="center"><br><i>Friendship is always a sweet responsibility, never an opportunity.</i><br><i>– Kahlil Gibran.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
