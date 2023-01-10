@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Trying to sneak a fastball past Hank Aaron is like trying to sneak the sunrise past a rooster.</i><br><i>– Joe Adcock.</i><br></p>
+<p align="center"><br><i>Our greatest glory is not in never falling, but in rising every time we fall.</i><br><i>– Confucius.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
