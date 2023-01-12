@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Of all the things which wisdom provides to make us entirely happy, much the greatest is the possession of friendship.</i><br><i>– Epicurus.</i><br></p>
+<p align="center"><br><i>Humanity is acquiring all the right technology for all the wrong reasons.</i><br><i>– Buckminster Fuller.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
