@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy.</i><br><i>– Thích Nhất Hạnh.</i><br></p>
+<p align="center"><br><i>Of all the things which wisdom provides to make us entirely happy, much the greatest is the possession of friendship.</i><br><i>– Epicurus.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
