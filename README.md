@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>It does not matter how slowly you go as long as you do not stop.</i><br><i>– Confucius.</i><br></p>
+<p align="center"><br><i>The spirit, the will to win, and the will to excel, are the things that endure. These qualities are so much more important than the events that occur.</i><br><i>– Vince Lombardi.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
