@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>He who controls others may be powerful, but he who has mastered himself is mightier still.</i><br><i>– Laozi.</i><br></p>
+<p align="center"><br><i>Don't settle for a relationship that won't let you be yourself.</i><br><i>– Oprah Winfrey.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
