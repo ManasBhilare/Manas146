@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Two persons cannot long be friends if they cannot forgive each other's little failings.</i><br><i>– Jean de La Bruyère.</i><br></p>
+<p align="center"><br><i>If you talk to a man in a language he understands, that goes to his head. If you talk to him in his language, that goes to his heart.</i><br><i>– Nelson Mandela.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
