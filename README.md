@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>All the world is a stage, And all the men and women merely players. They have their exits and entrances; Each man in his time plays many parts.</i><br><i>– William Shakespeare.</i><br></p>
+<p align="center"><br><i>Two persons cannot long be friends if they cannot forgive each other's little failings.</i><br><i>– Jean de La Bruyère.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
