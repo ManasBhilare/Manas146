@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>When you see a man of worth, think of how you may emulate him. When you see one who is unworthy, examine yourself.</i><br><i>– Confucius.</i><br></p>
+<p align="center"><br><i>I'm not afraid of storms, for I'm learning how to sail my ship.</i><br><i>– Louisa May Alcott.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
