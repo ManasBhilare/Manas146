@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>The art of storytelling is reaching its end because the epic side of truth, wisdom, is dying out.</i><br><i>– Walter Benjamin.</i><br></p>
+<p align="center"><br><i>Think how hard physics would be if particles could think.</i><br><i>– Murray Gell-Mann.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
