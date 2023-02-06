@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Think how hard physics would be if particles could think.</i><br><i>– Murray Gell-Mann.</i><br></p>
+<p align="center"><br><i>Mistakes are the usual bridge between inexperience and wisdom.</i><br><i>– Phyllis Grissim-Theroux.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
