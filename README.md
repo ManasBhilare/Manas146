@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>If you were to offer a thirsty man all wisdom, you would not please him more than if you gave him a drink.</i><br><i>– Sophocles.</i><br></p>
+<p align="center"><br><i>Success in business requires training and discipline and hard work. But if you're not frightened by these things, the opportunities are just as great today as they ever were.</i><br><i>– David Rockefeller.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
