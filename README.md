@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Science investigates; religion interprets. Science gives man knowledge which is power; religion gives man wisdom which is control.</i><br><i>– Martin Luther King Jr..</i><br></p>
+<p align="center"><br><i>By living deeply in the present moment we can understand the past better and we can prepare for a better future.</i><br><i>– Thích Nhất Hạnh.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
