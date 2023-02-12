@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>You can always tell a real friend: when you've made a fool of yourself he doesn't feel you've done a permanent job.</i><br><i>– Laurence J. Peter.</i><br></p>
+<p align="center"><br><i>Imagination is the highest kite one can fly.</i><br><i>– Lauren Bacall.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
