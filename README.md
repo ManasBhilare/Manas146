@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>It's supposed to be automatic, but actually you have to push this button.</i><br><i>– John Brunner.</i><br></p>
+<p align="center"><br><i>The key is to keep company only with people who uplift you, whose presence calls forth your best.</i><br><i>– Epictetus.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
