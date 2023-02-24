@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>The best and most beautiful things in the world cannot be seen, nor touched... but are felt in the heart.</i><br><i>– Helen Keller.</i><br></p>
+<p align="center"><br><i>If one does not know to which port one is sailing, no wind is favorable.</i><br><i>– Seneca the Younger.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
