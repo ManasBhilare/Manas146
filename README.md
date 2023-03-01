@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>It's just a job. Grass grows, birds fly, waves pound the sand. I beat people up.</i><br><i>– Muhammad Ali.</i><br></p>
+<p align="center"><br><i>One's friends are that part of the human race with which one can be human.</i><br><i>– George Santayana.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
