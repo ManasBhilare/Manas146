@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>I'm tired of hearing about money, money, money, money, money. I just want to play the game, drink Pepsi, and wear Reebok.</i><br><i>– Shaquille O'Neal.</i><br></p>
+<p align="center"><br><i>I am an optimist. It does not seem too much use being anything else.</i><br><i>– Winston Churchill.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
