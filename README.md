@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Flow with whatever is happening and let your mind be free. Stay centered by accepting whatever you are doing. This is the ultimate.</i><br><i>– Zhuang Zhou.</i><br></p>
+<p align="center"><br><i>It is not a lack of love, but a lack of friendship that makes unhappy marriages.</i><br><i>– Friedrich Nietzsche.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
