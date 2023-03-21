@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>If you don't know where you are going, you will probably end up somewhere else.</i><br><i>– Laurence J. Peter.</i><br></p>
+<p align="center"><br><i>Write your plans in pencil and give God the eraser.</i><br><i>– Paulo Coelho.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
