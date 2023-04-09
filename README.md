@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>The more you like yourself, the less you are like anyone else, which makes you unique.</i><br><i>– Walt Disney.</i><br></p>
+<p align="center"><br><i>You have to do your own growing no matter how tall your grandfather was.</i><br><i>– Abraham Lincoln.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
