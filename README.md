@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>They say that time changes things, but you actually have to change them yourself.</i><br><i>– Andy Warhol.</i><br></p>
+<p align="center"><br><i>Always remember that you are absolutely unique. Just like everyone else.</i><br><i>– Margaret Mead.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
