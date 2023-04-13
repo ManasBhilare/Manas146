@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>All this modern technology just makes people try to do everything at once.</i><br><i>– Bill Watterson.</i><br></p>
+<p align="center"><br><i>All this worldly wisdom was once the unamiable heresy of some wise man.</i><br><i>– Henry David Thoreau.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
