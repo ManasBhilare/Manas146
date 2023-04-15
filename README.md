@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Swim upstream. Go the other way. Ignore the conventional wisdom.</i><br><i>– Sam Walton.</i><br></p>
+<p align="center"><br><i>You don't play against opponents, you play against the game of basketball.</i><br><i>– Bob Knight.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
