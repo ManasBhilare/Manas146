@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Your worst enemy cannot harm you as much as your own unguarded thoughts.</i><br><i>– The Buddha.</i><br></p>
+<p align="center"><br><i>Wisdom cannot come by railroad or automobile or airplane or be hurried up by telegraph or telephone.</i><br><i>– John Burroughs.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
