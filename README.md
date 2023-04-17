@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Wisdom cannot come by railroad or automobile or airplane or be hurried up by telegraph or telephone.</i><br><i>– John Burroughs.</i><br></p>
+<p align="center"><br><i>Never doubt that a small group of thoughtful, committed people can change the world. Indeed. It is the only thing that ever has.</i><br><i>– Margaret Mead.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
