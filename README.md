@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Good judgment comes from experience, and a lot of that comes from bad judgment.</i><br><i>– Will Rogers.</i><br></p>
+<p align="center"><br><i>The future is completely open, and we are writing it moment to moment.</i><br><i>– Pema Chödrön.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
