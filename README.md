@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>I am a man of fixed and unbending principles, the first of which is to be flexible at all times.</i><br><i>– Everett Dirksen.</i><br></p>
+<p align="center"><br><i>There is no great genius without some touch of madness.</i><br><i>– Seneca the Younger.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
