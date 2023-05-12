@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.</i><br><i>– Wayne Dyer.</i><br></p>
+<p align="center"><br><i>Should someone do good, let them do it again and again. They should develop this habit, for the accumulation of goodness brings joy.</i><br><i>– The Buddha.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
