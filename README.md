@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>To hell with circumstances, I create opportunities.</i><br><i>– Bruce Lee.</i><br></p>
+<p align="center"><br><i>The past has no power to stop you from being present now. Only your grievance about the past can do that.</i><br><i>– Eckhart Tolle.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
