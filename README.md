@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Ability will never catch up with the demand for it.</i><br><i>– Confucius.</i><br></p>
+<p align="center"><br><i>The smallest flower is a thought, a life answering to some feature of the Great Whole, of whom they have a persistent intuition.</i><br><i>– Honoré de Balzac.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
