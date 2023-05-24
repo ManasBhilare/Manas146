@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>You really can change the world if you care enough.</i><br><i>– Marian Wright Edelman.</i><br></p>
+<p align="center"><br><i>In rivers, the water that you touch is the last of what has passed and the first of that which comes; so with present time.</i><br><i>– Leonardo da Vinci.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
