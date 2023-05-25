@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>The real danger is not that computers will begin to think like men, but that men will begin to think like computers.</i><br><i>– Sydney J. Harris.</i><br></p>
+<p align="center"><br><i>Ignorance and bungling with love are better than wisdom and skill without.</i><br><i>– Henry David Thoreau.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
