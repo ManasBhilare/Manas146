@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Cherish your visions and your dreams as they are the children of your soul; the blueprints of your ultimate achievements.</i><br><i>– Napoleon Hill.</i><br></p>
+<p align="center"><br><i>Being in humaneness is good. If we select other goodness and thus are far apart from humaneness, how can we be the wise?</i><br><i>– Confucius.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
