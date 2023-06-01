@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>I think that novels that leave out technology misrepresent life as badly as Victorians misrepresented life by leaving out sex.</i><br><i>– Kurt Vonnegut.</i><br></p>
+<p align="center"><br><i>To wear your heart on your sleeve isn't a very good plan; you should wear it inside, where it functions best.</i><br><i>– Margaret Thatcher.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
