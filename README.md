@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Without freedom of thought, there can be no such thing as wisdom - and no such thing as public liberty without freedom of speech.</i><br><i>– Benjamin Franklin.</i><br></p>
+<p align="center"><br><i>If you would take, you must first give, this is the beginning of intelligence.</i><br><i>– Laozi.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
