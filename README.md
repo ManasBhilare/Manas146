@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>How many legs does a dog have if you call his tail a leg? Four. Saying that a tail is a leg doesn't make it a leg.</i><br><i>– Abraham Lincoln.</i><br></p>
+<p align="center"><br><i>If you lose today, win tomorrow. In this never-ending spirit of challenge is the heart of a victor.</i><br><i>– Daisaku Ikeda.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
