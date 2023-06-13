@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Programs must be written for people to read, and only incidentally for machines to execute.</i><br><i>– Hal Abelson.</i><br></p>
+<p align="center"><br><i>What lies behind us and what lies before us are small matters compared to what lies within us.</i><br><i>– Oliver Wendell Holmes Jr..</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
