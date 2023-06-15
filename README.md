@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>He is a wise man who does not grieve for the things which he has not but rejoices for those which he has.</i><br><i>– Epictetus.</i><br></p>
+<p align="center"><br><i>Always be a first-rate version of yourself, instead of a second-rate version of somebody else.</i><br><i>– Judy Garland.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
