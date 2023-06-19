@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>The dream was always running ahead of me. To catch up, to live for a moment in unison with it, that was the miracle.</i><br><i>– Anaïs Nin.</i><br></p>
+<p align="center"><br><i>When something is important enough, you do it even if the odds are not in your favor.</i><br><i>– Elon Musk.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
