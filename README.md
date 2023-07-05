@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Friendship is the marriage of the soul, and this marriage is liable to divorce.</i><br><i>– Voltaire.</i><br></p>
+<p align="center"><br><i>Four steps to achievement: Plan purposefully. Prepare prayerfully. Proceed positively. Pursue persistently.</i><br><i>– William Arthur Ward.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
