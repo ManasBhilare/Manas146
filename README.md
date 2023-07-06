@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Four steps to achievement: Plan purposefully. Prepare prayerfully. Proceed positively. Pursue persistently.</i><br><i>– William Arthur Ward.</i><br></p>
+<p align="center"><br><i>Be kind whenever possible. It is always possible.</i><br><i>– Dalai Lama.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
