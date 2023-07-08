@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>A true friend is someone who is there for you when he'd rather be anywhere else.</i><br><i>– Len Wein.</i><br></p>
+<p align="center"><br><i>Nine-tenths of wisdom is being wise in time.</i><br><i>– Theodore Roosevelt.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
