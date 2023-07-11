@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>There are two primary choices in life: to accept conditions as they exist or accept responsibility for changing them.</i><br><i>– Denis Waitley.</i><br></p>
+<p align="center"><br><i>So much technology, so little talent.</i><br><i>– Vernor Vinge.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
