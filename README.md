@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Ceasing to do evil, Cultivating the good, Purifying the heart: This is the teaching of the Buddhas.</i><br><i>– The Buddha.</i><br></p>
+<p align="center"><br><i>To support mother and father, to cherish partner and children, and to be engaged in peaceful occupation — this is the greatest blessing.</i><br><i>– The Buddha.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
