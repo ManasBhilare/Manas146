@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Difficulties are meant to rouse, not discourage. The human spirit is to grow strong by conflict.</i><br><i>– William Ellery Channing.</i><br></p>
+<p align="center"><br><i>Love is composed of a single soul inhabiting two bodies.</i><br><i>– Aristotle.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
