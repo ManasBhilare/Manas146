@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>A man must be big enough to admit his mistakes, smart enough to profit from them, and strong enough to correct them.</i><br><i>– John C. Maxwell.</i><br></p>
+<p align="center"><br><i>I believe that a simple and unassuming manner of life is best for everyone, best both for the body and the mind.</i><br><i>– Albert Einstein.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
