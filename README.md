@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>False friendship, like the ivy, decays and ruins the walls it embraces; but true friendship gives new life and animation to the object it supports.</i><br><i>– Richard Burton.</i><br></p>
+<p align="center"><br><i>Make the best use of what is in your power and take the rest as it happens.</i><br><i>– Epictetus.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
