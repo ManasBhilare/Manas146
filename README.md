@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Parents can only give good advice or put them on the right paths, but the final forming of a person's character lies in their own hands.</i><br><i>– Anne Frank.</i><br></p>
+<p align="center"><br><i>The exercise of an extraordinary gift is the supremist pleasure in life.</i><br><i>– Mark Twain.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
