@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>The more sand that has escaped from the hourglass of our life, the clearer we should see through it.</i><br><i>– Jean-Paul Sartre.</i><br></p>
+<p align="center"><br><i>When one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us.</i><br><i>– Helen Keller.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
