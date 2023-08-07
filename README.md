@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Sometimes it is better to lose and do the right thing than to win and do the wrong thing.</i><br><i>– Tony Blair.</i><br></p>
+<p align="center"><br><i>Our kindness may be the most persuasive argument for that which we believe.</i><br><i>– Gordon Hinckley.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
