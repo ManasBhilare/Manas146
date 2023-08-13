@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>We make a living by what we get, but we make a life by what we give.</i><br><i>– Winston Churchill.</i><br></p>
+<p align="center"><br><i>Technology made large populations possible; large populations now make technology indispensable.</i><br><i>– Joseph Wood Krutch.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
