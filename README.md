@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Formula for success: under promise and over deliver.</i><br><i>– Tom Peters.</i><br></p>
+<p align="center"><br><i>The grand essentials of happiness are: something to do, something to love, and something to hope for.</i><br><i>– Alexander Chalmers.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
