@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Ask yourself the secret of your success. Listen to your answer and practice it.</i><br><i>– Richard Bach.</i><br></p>
+<p align="center"><br><i>The happiness of a man in this life does not consist in the absence but in the mastery of his passions.</i><br><i>– Alfred Tennyson.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
