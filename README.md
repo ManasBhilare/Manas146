@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>I was thrown out of college for cheating on the metaphysics exam; I looked into the soul of the boy sitting next to me.</i><br><i>– Woody Allen.</i><br></p>
+<p align="center"><br><i>It is better to have enough ideas for some of them to be wrong, than to be always right by having no ideas at all.</i><br><i>– Edward de Bono.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
