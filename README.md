@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Russia is a riddle wrapped in a mystery inside an enigma.</i><br><i>– Winston Churchill.</i><br></p>
+<p align="center"><br><i>I am building a fire, and everyday I train, I add more fuel. At just the right moment, I light the match.</i><br><i>– Mia Hamm.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
