@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Honesty is the best policy.</i><br><i>– Benjamin Franklin.</i><br></p>
+<p align="center"><br><i>Genius unrefined resembles a flash of lightning, but wisdom is like the sun.</i><br><i>– Franz Grillparzer.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
