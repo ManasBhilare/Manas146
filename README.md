@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>I have friends in overalls whose friendship I would not swap for the favor of the kings of the world.</i><br><i>– Thomas Edison.</i><br></p>
+<p align="center"><br><i>All great men are gifted with intuition. They know without reasoning or analysis, what they need to know.</i><br><i>– Alexis Carrel.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
