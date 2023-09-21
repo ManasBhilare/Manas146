@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Wise men talk because they have something to say; fools, because they have to say something.</i><br><i>– Plato.</i><br></p>
+<p align="center"><br><i>True friendship is a plant of slow growth, and must undergo and withstand the shocks of adversity, before it is entitled to the appellation.</i><br><i>– George Washington.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
