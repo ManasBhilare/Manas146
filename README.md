@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Imagination is not a talent of some men but is the health of every man.</i><br><i>– Ralph Waldo Emerson.</i><br></p>
+<p align="center"><br><i>I can't imagine a person becoming a success who doesn't give this game of life everything he's got.</i><br><i>– Walter Cronkite.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
