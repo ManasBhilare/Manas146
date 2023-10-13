@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Until you value yourself, you won't value your time. Until you value your time, you won't do anything with it.</i><br><i>– M. Scott Peck.</i><br></p>
+<p align="center"><br><i>The greatest obstacle to discovery is not ignorance - it is the illusion of knowledge.</i><br><i>– Daniel J. Boorstin.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
