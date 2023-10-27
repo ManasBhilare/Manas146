@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Never apologize for showing feelings. When you do so, you apologize for the truth.</i><br><i>– Benjamin Disraeli.</i><br></p>
+<p align="center"><br><i>The greatest minds are capable of the greatest vices as well as of the greatest virtues.</i><br><i>– René Descartes.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
