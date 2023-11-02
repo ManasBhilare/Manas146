@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>The person who lives life fully, glowing with life's energy, is the person who lives a successful life.</i><br><i>– Daisaku Ikeda.</i><br></p>
+<p align="center"><br><i>If the single man plant himself indomitably on his instincts, and there abide, the huge world will come round to him.</i><br><i>– Ralph Waldo Emerson.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
