@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Yeah, we all shine on, like the moon, and the stars, and the sun.</i><br><i>– John Lennon.</i><br></p>
+<p align="center"><br><i>Give me six hours to chop down a tree and I will spend the first four sharpening the axe.</i><br><i>– Abraham Lincoln.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
