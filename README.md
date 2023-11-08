@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Love at first sight is easy to understand; it's when two people have been looking at each other for a lifetime that it becomes a miracle.</i><br><i>– Amy Bloom.</i><br></p>
+<p align="center"><br><i>We read the world wrong and say that it deceives us.</i><br><i>– Rabindranath Tagore.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
