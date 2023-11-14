@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Love is never lost. If not reciprocated, it will flow back and soften and purify the heart.</i><br><i>– Washington Irving.</i><br></p>
+<p align="center"><br><i>Not all those who wander are lost.</i><br><i>– J. R. R. Tolkien.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
