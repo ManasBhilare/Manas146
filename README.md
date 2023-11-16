@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>There are three classes of men; lovers of wisdom, lovers of honor, and lovers of gain.</i><br><i>– Plato.</i><br></p>
+<p align="center"><br><i>When one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us.</i><br><i>– Helen Keller.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
