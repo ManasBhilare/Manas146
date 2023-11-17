@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>We all live with the objective of being happy; our lives are all different and yet the same.</i><br><i>– Anne Frank.</i><br></p>
+<p align="center"><br><i>When one tugs at a single thing in nature, he finds it attached to the rest of the world.</i><br><i>– John Muir.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
