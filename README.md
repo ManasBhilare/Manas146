@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Does wisdom perhaps appear on the earth as a raven which is inspired by the smell of carrion?</i><br><i>– Friedrich Nietzsche.</i><br></p>
+<p align="center"><br><i>If you fell down yesterday, stand up today.</i><br><i>– H. G. Wells.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
