@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>It is never too late to be what you might have been.</i><br><i>– George Eliot.</i><br></p>
+<p align="center"><br><i>I love my past. I love my present. I'm not ashamed of what I've had, and I'm not sad because I have it no longer.</i><br><i>– Colette.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
