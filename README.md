@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>There is no need for temples, no need for complicated philosophies. My brain and my heart are my temples; my philosophy is kindness.</i><br><i>– Dalai Lama.</i><br></p>
+<p align="center"><br><i>Wherever a man turns he can find someone who needs him.</i><br><i>– Albert Schweitzer.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
