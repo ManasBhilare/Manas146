@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>I find hope in the darkest of days, and focus in the brightest. I do not judge the universe.</i><br><i>– Dalai Lama.</i><br></p>
+<p align="center"><br><i>Technology presumes there's just one right way to do things and there never is.</i><br><i>– Robert M. Pirsig.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
