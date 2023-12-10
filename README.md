@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Remember that the most valuable antiques are dear old friends.</i><br><i>– H. Jackson Brown Jr..</i><br></p>
+<p align="center"><br><i>The least of things with a meaning is worth more in life than the greatest of things without it.</i><br><i>– Carl Jung.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
