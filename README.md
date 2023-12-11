@@ -74,7 +74,11 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
+<p align="center"><br><i>If you owe the bank 
 <p align="center"><br><i>We never understand how little we need in this world until we know the loss of it.</i><br><i>– J. M. Barrie.</i><br></p>
+00 that's your problem. If you owe the bank 
+<p align="center"><br><i>We never understand how little we need in this world until we know the loss of it.</i><br><i>– J. M. Barrie.</i><br></p>
+00 million, that's the bank's problem.</i><br><i>– J. Paul Getty.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
