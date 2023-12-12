@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Using the power of decision gives you the capacity to get past any excuse to change any and every part of your life in an instant.</i><br><i>– Tony Robbins.</i><br></p>
+<p align="center"><br><i>A noble one produces an abundance of merit by having a compassionate mind towards all living beings.</i><br><i>– The Buddha.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
