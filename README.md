@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>When you reach the end of your rope, tie a knot in it and hang on.</i><br><i>– Franklin D. Roosevelt.</i><br></p>
+<p align="center"><br><i>Friendship is like money, easier made than kept.</i><br><i>– Samuel Butler.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
