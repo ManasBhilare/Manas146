@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Love cures people - both the ones who give it and the ones who receive it.</i><br><i>– Karl Menninger.</i><br></p>
+<p align="center"><br><i>Creativity comes from trust. Trust your instincts. And never hope more than you work.</i><br><i>– Rita Mae Brown.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
