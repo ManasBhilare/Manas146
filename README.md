@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>A poem begins in delight and ends in wisdom.</i><br><i>– Robert Frost.</i><br></p>
+<p align="center"><br><i>There are two ways of spreading light: to be the candle or the mirror that reflects it.</i><br><i>– Edith Wharton.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
