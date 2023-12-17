@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>'All conditioned things are impermanent' — when one sees this with wisdom, one turns away from suffering.</i><br><i>– The Buddha.</i><br></p>
+<p align="center"><br><i>Whenever you find yourself on the side of the majority, it is time to pause and reflect.</i><br><i>– Mark Twain.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
