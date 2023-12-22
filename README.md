@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>All phenomena are preceded by the mind, created by the mind, and have the mind as their master.</i><br><i>– The Buddha.</i><br></p>
+<p align="center"><br><i>It has become appallingly obvious that our technology has exceeded our humanity.</i><br><i>– Albert Einstein.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
