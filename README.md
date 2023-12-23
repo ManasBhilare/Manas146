@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Life is 10% what happens to you and 90% how you react to it.</i><br><i>– Chuck Swindoll.</i><br></p>
+<p align="center"><br><i>Be not angry that you cannot make others as you wish them to be, since you cannot make yourself as you wish to be.</i><br><i>– Thomas à Kempis.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
