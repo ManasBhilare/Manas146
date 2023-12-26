@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>The teacher who is indeed wise does not bid you to enter the house of his wisdom but rather leads you to the threshold of your mind.</i><br><i>– Kahlil Gibran.</i><br></p>
+<p align="center"><br><i>Most folks are as happy as they make up their minds to be.</i><br><i>– Abraham Lincoln.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
