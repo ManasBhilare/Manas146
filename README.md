@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>A passion for politics stems usually from an insatiable need, either for power, or for friendship and adulation, or a combination of both.</i><br><i>– Fawn M. Brodie.</i><br></p>
+<p align="center"><br><i>If you break your neck, if you have nothing to eat, if your house is on fire, then you got a problem. Everything else is inconvenience.</i><br><i>– Robert Fulghum.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
