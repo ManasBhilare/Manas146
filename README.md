@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Adopt the pace of nature: her secret is patience.</i><br><i>– Ralph Waldo Emerson.</i><br></p>
+<p align="center"><br><i>The truth you believe and cling to makes you unavailable to hear anything new.</i><br><i>– Pema Chödrön.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
