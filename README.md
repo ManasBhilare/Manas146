@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>The world has the habit of making room for the man whose actions show that he knows where he is going.</i><br><i>– Napoleon Hill.</i><br></p>
+<p align="center"><br><i>All that we see or seem is but a dream within a dream.</i><br><i>– Edgar Allan Poe.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
