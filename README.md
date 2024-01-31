@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>The greatest pleasure I know is to do a good action by stealth, and to have it found out by accident.</i><br><i>– Charles Lamb.</i><br></p>
+<p align="center"><br><i>Most powerful is he who has himself in his own power.</i><br><i>– Seneca the Younger.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
