@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>We should all be thankful for those people who rekindle the inner spirit.</i><br><i>– Albert Schweitzer.</i><br></p>
+<p align="center"><br><i>The greatest pleasure I know is to do a good action by stealth, and to have it found out by accident.</i><br><i>– Charles Lamb.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
