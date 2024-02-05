@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Where all think alike, no one thinks very much.</i><br><i>– Walter Lippmann.</i><br></p>
+<p align="center"><br><i>Be miserable. Or motivate yourself. Whatever has to be done, it's always your choice.</i><br><i>– Wayne Dyer.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
