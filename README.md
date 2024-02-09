@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>But man is not made for defeat. A man can be destroyed but not defeated.</i><br><i>– Ernest Hemingway.</i><br></p>
+<p align="center"><br><i>Reason and free inquiry are the only effectual agents against error.</i><br><i>– Thomas Jefferson.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
