@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>It is important to our friends to believe that we are unreservedly frank with them, and important to friendship that we are not.</i><br><i>– Mignon McLaughlin.</i><br></p>
+<p align="center"><br><i>Listen to what you know instead of what you fear.</i><br><i>– Richard Bach.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
