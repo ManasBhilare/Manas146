@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>There are three classes of men; lovers of wisdom, lovers of honor, and lovers of gain.</i><br><i>– Plato.</i><br></p>
+<p align="center"><br><i>I have always thought the actions of men the best interpreters of their thoughts.</i><br><i>– John Locke.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
