@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>He who wishes to secure the good of others, has already secured his own.</i><br><i>– Confucius.</i><br></p>
+<p align="center"><br><i>The truth of the matter is that you always know the right thing to do. The hard part is doing it.</i><br><i>– Norman Schwarzkopf.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
