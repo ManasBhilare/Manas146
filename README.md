@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>In the business world, everyone is paid in two coins: cash and experience. Take the experience first; the cash will come later.</i><br><i>– Harold Geneen.</i><br></p>
+<p align="center"><br><i>Strength does not come from physical capacity. It comes from an indomitable will.</i><br><i>– Mahatma Gandhi.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
