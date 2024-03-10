@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>All know the way; few actually walk it.</i><br><i>– Bodhidharma.</i><br></p>
+<p align="center"><br><i>It is only with the heart that one can see rightly, what is essential is invisible to the eye.</i><br><i>– Antoine de Saint-Exupéry.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
