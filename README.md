@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>There are no limitations to the mind except those we acknowledge.</i><br><i>– Napoleon Hill.</i><br></p>
+<p align="center"><br><i>Pure, holy simplicity confounds all the wisdom of this world and the wisdom of the flesh.</i><br><i>– Francis of Assisi.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
