@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>He can who thinks he can, and he can't who thinks he can't. This is an inexorable, indisputable law.</i><br><i>– Pablo Picasso.</i><br></p>
+<p align="center"><br><i>There are no limitations to the mind except those we acknowledge.</i><br><i>– Napoleon Hill.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
