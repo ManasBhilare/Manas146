@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>When a friend is in trouble, don't annoy him by asking if there is anything you can do. Think up something appropriate and do it.</i><br><i>– A. Powell Davies.</i><br></p>
+<p align="center"><br><i>A wise man can learn more from a foolish question than a fool can learn from a wise answer.</i><br><i>– Bruce Lee.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
