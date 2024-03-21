@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>No one has a finer command of language than the person who keeps his mouth shut.</i><br><i>– Sam Rayburn.</i><br></p>
+<p align="center"><br><i>When a friend is in trouble, don't annoy him by asking if there is anything you can do. Think up something appropriate and do it.</i><br><i>– A. Powell Davies.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
