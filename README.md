@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>To accomplish great things, we must not only act, but also dream; not only plan, but also believe.</i><br><i>– Anatole France.</i><br></p>
+<p align="center"><br><i>Be glad of life because it gives you the chance to love, to work, to play, and to look up at the stars.</i><br><i>– Henry van Dyke Jr..</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
