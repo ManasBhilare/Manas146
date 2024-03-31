@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Sincerity is the way of Heaven. The attainment of sincerity is the way of men.</i><br><i>– Confucius.</i><br></p>
+<p align="center"><br><i>There are things so deep and complex that only intuition can reach it in our stage of development as human beings.</i><br><i>– John Astin.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
