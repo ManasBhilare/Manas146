@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Learning never exhausts the mind.</i><br><i>– Leonardo da Vinci.</i><br></p>
+<p align="center"><br><i>Very little is needed to make a happy life; it is all within yourself, in your way of thinking.</i><br><i>– Marcus Aurelius.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
