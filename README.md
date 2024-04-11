@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>No one can make you feel inferior without your consent.</i><br><i>– Eleanor Roosevelt.</i><br></p>
+<p align="center"><br><i>Try not to become a man of success, but rather try to become a man of value.</i><br><i>– Albert Einstein.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
