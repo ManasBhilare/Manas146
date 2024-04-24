@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>It is difficult to achieve a spirit of genuine cooperation as long as people remain indifferent to the feelings and happiness of others.</i><br><i>– Dalai Lama.</i><br></p>
+<p align="center"><br><i>Don't judge each day by the harvest you reap but by the seeds that you plant.</i><br><i>– Robert Louis Stevenson.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
