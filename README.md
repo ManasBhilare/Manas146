@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>To be tested is good. The challenged life may be the best therapist.</i><br><i>– Gail Sheehy.</i><br></p>
+<p align="center"><br><i>We are either progressing or retrograding all the while. There is no such thing as remaining stationary in this life.</i><br><i>– James Freeman Clarke.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
