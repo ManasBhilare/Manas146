@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>The mind unlearns with difficulty what it has long learned.</i><br><i>– Seneca the Younger.</i><br></p>
+<p align="center"><br><i>All of our technology is completely unnecessary to a happy life.</i><br><i>– Tom Hodgkinson.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
