@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>I have learned that friendship isn't about who you've known the longest, it's about who came and never left your side.</i><br><i>– Yolanda Hadid.</i><br></p>
+<p align="center"><br><i>We must embrace pain and burn it as fuel for our journey.</i><br><i>– Kenji Miyazawa.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
