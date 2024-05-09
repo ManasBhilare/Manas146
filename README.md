@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>The bird of paradise alights only upon the hand that does not grasp.</i><br><i>– John Berry.</i><br></p>
+<p align="center"><br><i>One must be fond of people and trust them if one is not to make a mess of life.</i><br><i>– E. M. Forster.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
