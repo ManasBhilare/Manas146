@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Tennis is a perfect combination of violent action taking place in an atmosphere of total tranquillity.</i><br><i>– Billie Jean King.</i><br></p>
+<p align="center"><br><i>If it is not right do not do it; if it is not true do not say it.</i><br><i>– Marcus Aurelius.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
