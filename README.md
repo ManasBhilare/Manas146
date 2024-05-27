@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>It is a common experience that a problem difficult at night is resolved in the morning after the committee of sleep has worked on it.</i><br><i>– John Steinbeck.</i><br></p>
+<p align="center"><br><i>Friendship is a very taxing and arduous form of leisure activity.</i><br><i>– Mortimer J. Adler.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
