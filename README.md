@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Keep your face always toward the sunshine - and shadows will fall behind you.</i><br><i>– Walt Whitman.</i><br></p>
+<p align="center"><br><i>Spread love everywhere you go. Let no one ever come to you without leaving happier.</i><br><i>– Mother Teresa.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
