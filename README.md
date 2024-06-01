@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Good, better, best. Never let it rest. ‘Til your good is better and your better is best.</i><br><i>– Jerome.</i><br></p>
+<p align="center"><br><i>One loyal friend is worth ten thousand relatives.</i><br><i>– Euripides.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
