@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>The truth you believe and cling to makes you unavailable to hear anything new.</i><br><i>– Pema Chödrön.</i><br></p>
+<p align="center"><br><i>A failure is a man who has blundered but is not capable of cashing in on the experience.</i><br><i>– Elbert Hubbard.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
