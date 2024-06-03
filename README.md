@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Speak when you are angry, and you will make the best speech you will ever regret.</i><br><i>– Ambrose Bierce.</i><br></p>
+<p align="center"><br><i>Most people get interested in stocks when everyone else is. The time to get interested is when no one else is. You can't buy what is popular and do well.</i><br><i>– Warren Buffett.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
