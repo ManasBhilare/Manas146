@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Our doubts are traitors and make us lose the good we often might win, by fearing to attempt.</i><br><i>– Jane Addams.</i><br></p>
+<p align="center"><br><i>Don't leave a stone unturned. It's always something, to know you have done the most you could.</i><br><i>– Charles Dickens.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
