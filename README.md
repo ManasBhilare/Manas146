@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Most people get interested in stocks when everyone else is. The time to get interested is when no one else is. You can't buy what is popular and do well.</i><br><i>– Warren Buffett.</i><br></p>
+<p align="center"><br><i>Our doubts are traitors and make us lose the good we often might win, by fearing to attempt.</i><br><i>– Jane Addams.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
