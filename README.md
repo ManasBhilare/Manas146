@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Don't leave a stone unturned. It's always something, to know you have done the most you could.</i><br><i>– Charles Dickens.</i><br></p>
+<p align="center"><br><i>Baseball is the only field of endeavor where a man can succeed three times out of ten and be considered a good performer.</i><br><i>– Ted Williams.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
