@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Character develops itself in the stream of life.</i><br><i>– Johann Wolfgang von Goethe.</i><br></p>
+<p align="center"><br><i>The shoe that fits one person pinches another; there is no recipe for living that suits all cases.</i><br><i>– Carl Jung.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
