@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Life is so constructed that an event does not, cannot, will not, match the expectation.</i><br><i>– Charlotte Brontë.</i><br></p>
+<p align="center"><br><i>If you want to kill any idea in the world, get a committee working on it.</i><br><i>– Charles F. Kettering.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
