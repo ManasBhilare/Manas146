@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>He who fears being conquered is sure of defeat.</i><br><i>– Napoleon.</i><br></p>
+<p align="center"><br><i>The greatest achievement of humanity is not its works of art, science, or technology, but the recognition of its own dysfunction.</i><br><i>– Eckhart Tolle.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
