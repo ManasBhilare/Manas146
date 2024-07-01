@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>We aim above the mark to hit the mark.</i><br><i>– Ralph Waldo Emerson.</i><br></p>
+<p align="center"><br><i>True silence is the rest of the mind; it is to the spirit what sleep is to the body, nourishment and refreshment.</i><br><i>– William Penn.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
