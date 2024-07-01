@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>True silence is the rest of the mind; it is to the spirit what sleep is to the body, nourishment and refreshment.</i><br><i>– William Penn.</i><br></p>
+<p align="center"><br><i>I do not believe in a fate that falls on men however they act; but I do believe in a fate that falls on man unless they act.</i><br><i>– G. K. Chesterton.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
