@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>The way we communicate with others and with ourselves ultimately determines the quality of our lives.</i><br><i>– Tony Robbins.</i><br></p>
+<p align="center"><br><i>We must never forget that it is through our actions, words, and thoughts that we have a choice.</i><br><i>– Sogyal Rinpoche.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
