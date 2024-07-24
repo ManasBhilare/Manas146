@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Friendship is always a sweet responsibility, never an opportunity.</i><br><i>– Kahlil Gibran.</i><br></p>
+<p align="center"><br><i>To climb steep hills requires a slow pace at first.</i><br><i>– William Shakespeare.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
