@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>I am of the opinion that my life belongs to the community, and as long as I live it is my privilege to do for it whatever I can.</i><br><i>– Bernard Shaw.</i><br></p>
+<p align="center"><br><i>Do not scorn what you have received, nor envy the gains of others. He who envies others does not obtain peace of mind.</i><br><i>– The Buddha.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
