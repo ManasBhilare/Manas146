@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Do not scorn what you have received, nor envy the gains of others. He who envies others does not obtain peace of mind.</i><br><i>– The Buddha.</i><br></p>
+<p align="center"><br><i>Do not waste yourself in rejection, nor bark against the bad, but chant the beauty of the good.</i><br><i>– Ralph Waldo Emerson.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
