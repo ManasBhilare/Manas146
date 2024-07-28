@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>As you think, so shall you become.</i><br><i>– Bruce Lee.</i><br></p>
+<p align="center"><br><i>Neatness begets order; but from order to taste there is the same difference as from taste to genius, or from love to friendship.</i><br><i>– Johann Kaspar Lavater.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
