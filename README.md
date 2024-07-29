@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>I am a man of fixed and unbending principles, the first of which is to be flexible at all times.</i><br><i>– Everett Dirksen.</i><br></p>
+<p align="center"><br><i>Intuition is the very force or activity of the soul in its experience through whatever has been the experience of the soul itself.</i><br><i>– Henry Reed.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
