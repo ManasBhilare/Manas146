@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>The greatest part of our happiness depends on our dispositions, not our circumstances.</i><br><i>– Martha Washington.</i><br></p>
+<p align="center"><br><i>The poor man is not he who is without a cent, but he who is without a dream.</i><br><i>– Harry Kemp.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
