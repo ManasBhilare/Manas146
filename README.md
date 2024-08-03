@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Just as a flower, which seems beautiful has color but no perfume, so are the fruitless words of a man who speaks them but does them not.</i><br><i>– Dhammapada.</i><br></p>
+<p align="center"><br><i>If you have the guts to keep making mistakes, your wisdom and intelligence leap forward with huge momentum.</i><br><i>– Holly Near.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
