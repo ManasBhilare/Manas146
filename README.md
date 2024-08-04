@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Can miles truly separate you from friends... If you want to be with someone you love, aren't you already there?</i><br><i>– Richard Bach.</i><br></p>
+<p align="center"><br><i>Happiness often sneaks in through a door you didn't know you left open.</i><br><i>– John Barrymore.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
