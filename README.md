@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Imagination is the living power and prime agent of all human perception.</i><br><i>– Samuel Taylor Coleridge.</i><br></p>
+<p align="center"><br><i>You need chaos in your soul to give birth to a dancing star.</i><br><i>– Friedrich Nietzsche.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
