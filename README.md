@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Let your hook always be cast; in the pool where you least expect it, there will be a fish.</i><br><i>– Ovid.</i><br></p>
+<p align="center"><br><i>I hear and I forget. I see and I remember. I do and I understand.</i><br><i>– Confucius.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
