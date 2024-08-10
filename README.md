@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>When you doubt your power, you give power to your doubt.</i><br><i>– Honoré de Balzac.</i><br></p>
+<p align="center"><br><i>If you spend your whole life waiting for the storm, you'll never enjoy the sunshine.</i><br><i>– Morris West.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
