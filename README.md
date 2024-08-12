@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Consider that not only do negative thoughts and emotions destroy our experience of peace, but they also undermine our health.</i><br><i>– Dalai Lama.</i><br></p>
+<p align="center"><br><i>Every person, all the events of your life are there because you have drawn them there. What you choose to do with them is up to you.</i><br><i>– Richard Bach.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
