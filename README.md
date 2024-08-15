@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Imagination is the highest kite one can fly.</i><br><i>– Lauren Bacall.</i><br></p>
+<p align="center"><br><i>To be fully alive, fully human, and completely awake is to be continually thrown out of the nest.</i><br><i>– Pema Chödrön.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
