@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Every man is a damn fool for at least five minutes every day; wisdom consists in not exceeding the limit.</i><br><i>– Elbert Hubbard.</i><br></p>
+<p align="center"><br><i>You spend a good piece of your life gripping a baseball and in the end it turns out that it was the other way around all the time.</i><br><i>– Jim Bouton.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
