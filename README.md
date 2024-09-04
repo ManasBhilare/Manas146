@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Love yourself first and everything else falls into line. You really have to love yourself to get anything done in this world.</i><br><i>– Lucille Ball.</i><br></p>
+<p align="center"><br><i>A lot of people give up just before theyre about to make it. You know you never know when that next obstacle is going to be the last one.</i><br><i>– Chuck Norris.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
