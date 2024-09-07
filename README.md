@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>If we have a positive mental attitude, then even when surrounded by hostility, we shall not lack inner peace.</i><br><i>– Dalai Lama.</i><br></p>
+<p align="center"><br><i>Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years.</i><br><i>– Richard Bach.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
