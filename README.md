@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>You may say I'm a dreamer, but I'm not the only one, I hope someday you will join us, and the world will live as one.</i><br><i>– John Lennon.</i><br></p>
+<p align="center"><br><i>Sustaining true friendship is a lot more challenging than we give it credit for.</i><br><i>– Mariella Frostrup.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
