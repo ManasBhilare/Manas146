@@ -74,7 +74,7 @@
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 
 <!-- QUOTE:START -->
-<p align="center"><br><i>I am of the opinion that my life belongs to the community, and as long as I live it is my privilege to do for it whatever I can.</i><br><i>– Bernard Shaw.</i><br></p>
+<p align="center"><br><i>God gave us the gift of life; it is up to us to give ourselves the gift of living well.</i><br><i>– Voltaire.</i><br></p>
 <!-- QUOTE:END -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas146&label=Profile%20views&color=0e75b6&style=flat" alt="manas146" /> </p>
 
